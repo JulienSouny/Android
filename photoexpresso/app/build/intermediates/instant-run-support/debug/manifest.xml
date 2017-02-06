@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.barloufcorporation.photoexpresso"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.LoginActivity"
+            android:label="Ecran de connexion" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.HomeActivity"
+            android:label="Galerie" />
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.CreateAccountActivity"
+            android:label="Création de compte" />
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.FilterActivity"
+            android:label="Choix des filtres" />
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.FormatActivity"
+            android:label="Choix des formats" />
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.AdressSelectionActivity"
+            android:label="Choix des destinataires" />
+        <activity
+            android:name="com.example.barloufcorporation.photoexpresso.AdressCreationActivity"
+            android:label="Creation de contact" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

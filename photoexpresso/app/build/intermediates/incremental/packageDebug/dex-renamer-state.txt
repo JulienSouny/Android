@@ -1,0 +1,7 @@
+#Mon Feb 06 15:50:36 CET 2017
+base.0=/Users/julien/Desktop/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7fede385e186179cec943728a2e43e1e5c407daa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/julien/Desktop/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49d026650e95213d1e7e70a9b38d4557e75bcd14/classes.dex
+base.1=/Users/julien/Desktop/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49d026650e95213d1e7e70a9b38d4557e75bcd14
+file.0=/Users/julien/Desktop/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7fede385e186179cec943728a2e43e1e5c407daa/classes.dex

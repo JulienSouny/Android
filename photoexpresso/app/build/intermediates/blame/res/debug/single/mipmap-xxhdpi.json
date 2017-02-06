@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

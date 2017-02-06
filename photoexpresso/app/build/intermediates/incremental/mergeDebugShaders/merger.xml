@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/julien/Desktop/photoexpresso/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/julien/Desktop/photoexpresso/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Local/Android/photoexpresso/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Local/Android/photoexpresso/app/src/debug/shaders"/></dataSet></merger>

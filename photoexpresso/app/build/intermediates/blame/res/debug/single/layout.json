@@ -1,23 +1,27 @@
 [
     {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_adress_creation.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_adress_creation.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_create_account.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_create_account.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -28,8 +32,20 @@
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -44,48 +60,60 @@
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_adress_selection.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_adress_selection.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_home.xml"
-    },
-    {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_filter.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_filter.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_home.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
@@ -96,24 +124,164 @@
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_format.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_format.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_adress_creation.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_adress_creation.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_create_account.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_adress_selection.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_adress_selection.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_filter.xml",
+        "source": "/Local/Android/photoexpresso/app/src/main/res/layout/activity_filter.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_adress_creation.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_adress_creation.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_create_account.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/src/main/res/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
@@ -124,8 +292,8 @@
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -136,32 +304,40 @@
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/activity_format.xml",
@@ -172,8 +348,12 @@
         "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Local/Android/photoexpresso/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Local/Android/photoexpresso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/julien/Desktop/photoexpresso/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",

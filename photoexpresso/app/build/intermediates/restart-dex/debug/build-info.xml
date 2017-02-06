@@ -5,9 +5,9 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="135751531279844"
+    timestamp="139807967708582"
     token="-2730186051920118173"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -22,6 +22,10 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/Local/Android/photoexpresso/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
     <build
         timestamp="135206479089891"
         verifier="MANIFEST_FILE_CHANGE" >
@@ -30,7 +34,109 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="135751531279844"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="138311869860526"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a04d0e84dcc6da3bcc7715e81f3e45b4b39d65d2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2774496a84ac76b26fd61b65cd457d8ebe9d9a34/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_37cdd357f903b276e15e354cd57107ab3140d3c8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_59206b5f586da038c2788912766487d47721f6ee/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_64a9a0a3567607e04f35c2aea473d49f8b7a8c3d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2edb277c8e30d93df0a34d541045d350405dd7a7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_665e894cd87312bfbafa124e49ac29b81a39a8d4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_7aff18ce554319cd2d4bfbf767ed7a7c7e8e7470/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_bd1d5b55fbd0b957f2eadfc504a944501f2f4528/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_05c459880c57152134502fcac6e45f2bad94d1f8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5996389496fa9a99e84a5209826f3d677f185afe/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_edfd6c44217f8d9c89d2631a5b9e2d22b872edcd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3ec96773d922d70647e82e062b6765770012a04a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_94899f36a6bc4fa0ffb737ca1ac4ff8a88049869/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a741d028c7390b996a5dbc8b0cc4ea3be3637ea/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_d2cc35ee4e96bb82e76b14c076d2f1b25b3a40e7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_4e84358935179f6b1640498c45c3c2819b248fd3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_17b5d9c7f48a35030a8063c3d411675d10ad3ff7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_010f881ca59f0973e1858ed76e5ec6bb6936be82/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_54eafd2a0741c0cea6f19c4bfe3b0cff6bec2a6f/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="139053918531392"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="139807967708582"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Local/Android/photoexpresso/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>
